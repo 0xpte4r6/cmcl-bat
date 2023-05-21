@@ -1,5 +1,5 @@
 # cmcl-bat
-::cmcl.bat&nbsp;
+::cmcl.bat
 @echo off
 set APATH=%cd%
 set ADISK=%cd:~0,2% 
